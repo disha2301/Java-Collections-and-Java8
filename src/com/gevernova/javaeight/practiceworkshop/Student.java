@@ -1,4 +1,4 @@
-package com.gevernova.workshopfour.secondreview;
+package com.gevernova.javaeight.practiceworkshop;
 import java.util.List;
 
 class Student {

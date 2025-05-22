@@ -2,10 +2,8 @@
 List<String> names = Arrays.asList("alex", "christopher", "bob", "davidson", "evan");
 */
 
-package com.gevernova.javaeight;
+package com.gevernova.javaeight.streamapi.practicequestion;
 import java.util.*;
-import java.util.function.DoubleToIntFunction;
-import java.util.function.ToIntFunction;
 import java.util.stream.Collectors;
 
 public class Top3LongestString{
